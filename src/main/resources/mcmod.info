@@ -1,0 +1,16 @@
+[
+{
+  "modid": "GuildPurgeMod",
+  "name": "Guild Purge Mod",
+  "description": "Guild Purging Mod for Hypixel",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "This Mod was made by the CEO of Lynx",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
